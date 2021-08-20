@@ -27,3 +27,4 @@ LNbits can run on top of any lightning-network funding source, currently there i
 - [Going Dutch](https://goingdutch.pm) - A splitting the bill service, utilizing LNURLp and LNURLw extensions
 - [@LightningTipBot](https://github.com/LightningTipBot/LightningTipBot) - A tip bot and Lightning wallet on Telegram
 - [ChargedMail](https://github.com/shocknet/chargedMail) - Paywall anti-spam for emails
+- [Lightning Controller](https://github.com/supertestnet/lightningcontroller) - LNbits PHP wrapper
